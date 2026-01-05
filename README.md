@@ -60,17 +60,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=600&size=20&duration=4000&pause=1500&color=FF6B9D&center=true&vCenter=true&repeat=true&width=800&height=60&lines=%22I+don't+write+code+just+to+make+things+work.+I+want+them+to+last.%22;%22Trends+fade.+Fundamentals+stay.+That's+what+I+focus+on.%22;%22I'm+not+here+to+copy-paste+from+Stack+Overflow+forever.%22"/>
 </p>
 
-<br>
-
-<div align="center">
-
-> 💭 *"Mujhe wo developer nahi banna jo sirf kaam chala le. Main wo banna chahta hoon jo systems design kare — systems jo mere bina bhi kaam karte rahe."*
->
-> 🧠 *"I approach every project like a puzzle. Not to solve it fast, but to understand it deeply."*
->
-> 🌙 *"Most people code during the day. I come alive at night. Silence helps me think clearly."*
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/💭-Mujhe_wo_developer_nahi_banna_jo_sirf_kaam_chala_le-FF6B9D?style=flat-square&labelColor=1a1a2e"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🧠-I_approach_every_project_like_a_puzzle._Not_fast,_but_deep.-C44569?style=flat-square&labelColor=1a1a2e"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🌙-Most_people_code_during_day._I_come_alive_at_night.-FF6B9D?style=flat-square&labelColor=1a1a2e"/>
+</p>
 
 <!-- Thinking Animation -->
 <p align="center">
@@ -89,29 +87,41 @@
   <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="25"/>
 </h2>
 
-<div align="center">
+<h3 align="center">💡 How I Think</h3>
 
-| | **How I Think** |
-|:---:|:---|
-| 💡 | I don't chase shortcuts. If something takes time to learn, I give it time. |
-| 🎯 | I'd rather understand one thing deeply than know 10 things on surface level. |
-| 🔥 | I don't code to impress anyone. I code because it helps me think better. |
-| 🌊 | When I get stuck, I step back and think — not panic and Google randomly. |
-| ⚡ | I treat my code like it'll be read by a stranger 5 years later. Clean matters. |
+<p align="center">
+  <img src="https://img.shields.io/badge/💡-I_don't_chase_shortcuts._If_something_takes_time,_I_give_it_time.-FF6B9D?style=flat-square&labelColor=1a1a2e"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🎯-I'd_rather_understand_one_thing_deeply_than_10_things_on_surface.-C44569?style=flat-square&labelColor=1a1a2e"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🔥-I_don't_code_to_impress._I_code_because_it_helps_me_think_better.-FF6B9D?style=flat-square&labelColor=1a1a2e"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🌊-When_stuck,_I_step_back_and_think_—_not_panic_and_Google_randomly.-C44569?style=flat-square&labelColor=1a1a2e"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡-I_treat_my_code_like_it'll_be_read_by_a_stranger_5_years_later.-FF6B9D?style=flat-square&labelColor=1a1a2e"/>
+</p>
 
-</div>
+<h3 align="center">🧠 What I Believe</h3>
 
-<div align="center">
-
-| | **What I Believe** |
-|:---:|:---|
-| 🧠 | Human intelligence has no ceiling. We just stop climbing too early. |
-| 🌙 | Night time is when distractions die. That's when real work happens. |
-| 🎹 | Calm piano isn't just music for me. It's the switch that turns my focus on. |
-| 💭 | Thinking > Typing. I spend more time planning than actually coding. |
-| 🚀 | The best developers aren't the fastest. They're the ones who think ahead. |
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/🧠-Human_intelligence_has_no_ceiling._We_just_stop_climbing_too_early.-C44569?style=flat-square&labelColor=1a1a2e"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🌙-Night_time_is_when_distractions_die._That's_when_real_work_happens.-FF6B9D?style=flat-square&labelColor=1a1a2e"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🎹-Calm_piano_isn't_just_music._It's_the_switch_that_turns_my_focus_on.-C44569?style=flat-square&labelColor=1a1a2e"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/💭-Thinking_>_Typing._I_spend_more_time_planning_than_actually_coding.-FF6B9D?style=flat-square&labelColor=1a1a2e"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀-The_best_developers_aren't_the_fastest._They're_the_ones_who_think_ahead.-C44569?style=flat-square&labelColor=1a1a2e"/>
+</p>
 
 <!-- Sparkle Animation -->
 <p align="center">
@@ -130,10 +140,49 @@
   <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="25"/>
 </h2>
 
-<div align="center">
+<h3 align="center">🌙 Night Coding</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/There's_something_about_2AM_that_just_hits_different.-1a1a2e?style=for-the-badge&labelColor=FF6B9D"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/No_notifications,_no_distractions_—_just_me_and_the_code.-1a1a2e?style=for-the-badge&labelColor=C44569"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/That's_when_I_do_my_best_thinking.-1a1a2e?style=for-the-badge&labelColor=FF6B9D"/>
+</p>
 
+<h3 align="center">🎹 Calm Piano</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/I_don't_know_why,_but_piano_music_makes_my_brain_work_10x_better.-1a1a2e?style=for-the-badge&labelColor=C44569"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/It's_like_a_focus_switch._No_lyrics._Just_melodies.-1a1a2e?style=for-the-badge&labelColor=FF6B9D"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/That's_my_coding_playlist.-1a1a2e?style=for-the-badge&labelColor=C44569"/>
+</p>
 
-</div>
+<h3 align="center">🧠 Human Intelligence</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/I_keep_thinking_—_how_smart_can_humans_actually_get?-1a1a2e?style=for-the-badge&labelColor=FF6B9D"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Like,_where's_the_limit?_Is_there_even_one?-1a1a2e?style=for-the-badge&labelColor=C44569"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/This_question_keeps_me_up_at_night._I'm_genuinely_obsessed.-1a1a2e?style=for-the-badge&labelColor=FF6B9D"/>
+</p>
+
+<h3 align="center">⚡ Beyond The Ordinary</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/I'm_not_interested_in_doing_things_the_'normal'_way.-1a1a2e?style=for-the-badge&labelColor=C44569"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/I_want_to_explore_what_others_ignore.-1a1a2e?style=for-the-badge&labelColor=FF6B9D"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/The_matrix_has_rules._I_like_bending_them.-1a1a2e?style=for-the-badge&labelColor=C44569"/>
+</p>
 
 <br>
 
@@ -151,15 +200,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=20&duration=4500&pause=1500&color=C44569&center=true&vCenter=true&repeat=true&width=750&height=80&lines=%22I+don't+write+code+for+today.+I+write+it+for+the+future+me.%22;%22The+best+debugging+tool+is+a+good+night's+sleep.%22;%22If+I+can't+explain+it+simply,+I+don't+understand+it+yet.%22;%22Code+is+like+poetry.+Every+word+should+earn+its+place.%22"/>
 </p>
 
-<div align="center">
-
-> 🌙 *"Late nights aren't about being workaholic. They're about finding peace in silence."*
->
-> 💭 *"I'm not trying to be the smartest person. I'm trying to be the most curious one."*
->
-> ⚡ *"Copy-paste might solve today's problem. Understanding solves tomorrow's."*
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/🌙_Late_nights_aren't_about_being_workaholic._They're_about_finding_peace_in_silence.-FF6B9D?style=flat-square&labelColor=1a1a2e"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/💭_I'm_not_trying_to_be_the_smartest._I'm_trying_to_be_the_most_curious.-C44569?style=flat-square&labelColor=1a1a2e"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡_Copy--paste_might_solve_today's_problem._Understanding_solves_tomorrow's.-FF6B9D?style=flat-square&labelColor=1a1a2e"/>
+</p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=How%20far%20can%20human%20intelligence%20really%20go?%20I%20want%20to%20find%20out.&author=Serena"/>
@@ -220,11 +269,55 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=serenaXdev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6B9D&line=C44569&point=FFFFFF&area=true&area_color=FF6B9D" width="98%"/>
 </p>
 
-<!-- Fire Animation -->
+<br>
+
+<!-- Rainbow Line -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<!-- Live Profile Stats -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"/>
+  𝐋𝐈𝐕𝐄 𝐏𝐑𝐎𝐅𝐈𝐋𝐄 𝐒𝐓𝐀𝐓𝐒
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"/>
+</h2>
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="40"/>
-  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="40"/>
-  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="40"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=serenaXdev&theme=radical" width="98%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=serenaXdev&theme=radical" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=serenaXdev&theme=radical" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=serenaXdev&theme=radical" width="32%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=serenaXdev&theme=radical&utcOffset=9" width="49%"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=serenaXdev&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117" width="49%"/>
+</p>
+
+<!-- Live Stats Badges -->
+<h3 align="center">📊 Real-Time Metrics</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Total%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FserenaXdev&style=for-the-badge&color=FF6B9D&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FserenaXdev&style=for-the-badge&color=C44569&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Following&query=%24.following&url=https%3A%2F%2Fapi.github.com%2Fusers%2FserenaXdev&style=for-the-badge&color=FF6B9D&labelColor=1a1a2e"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/serenaXdev?style=for-the-badge&logo=github&label=Total%20Stars&color=C44569&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/github/commit-activity/m/serenaXdev/serenaXdev?style=for-the-badge&logo=github&label=Monthly%20Commits&color=FF6B9D&labelColor=1a1a2e"/>
+</p>
+
+<p align="center">
+  <img src="https://badges.pufler.dev/repos/serenaXdev?style=for-the-badge&color=C44569&labelColor=1a1a2e&label=Total%20Repos"/>
+  <img src="https://badges.pufler.dev/commits/monthly/serenaXdev?style=for-the-badge&color=FF6B9D&labelColor=1a1a2e&label=Monthly%20Commits"/>
+</p>
+
+<!-- Contribution Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/serenaXdev/serenaXdev/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 <br>
 
@@ -233,9 +326,9 @@
 
 <!-- Achievements -->
 <h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="25"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="25"/>
   𝐀𝐂𝐇𝐈𝐄𝐕𝐄𝐌𝐄𝐍𝐓𝐒
-  <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="25"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="25"/>
 </h2>
 
 <p align="center">
@@ -262,11 +355,9 @@
   <img src="https://img.shields.io/badge/🧠_Deep-Thinker-FF6B9D?style=for-the-badge&labelColor=1a1a2e"/>
 </p>
 
-<!-- Trophy Animation -->
+<!-- Achievement Animation - NEW -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" width="40"/>
-  <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="40"/>
-  <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" width="40"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="400"/>
 </p>
 
 <br>
@@ -288,11 +379,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/serenaXdev?style=for-the-badge&color=FF6B9D&labelColor=1a1a2e&label=FOLLOWERS"/>
   <img src="https://img.shields.io/github/stars/serenaXdev?style=for-the-badge&color=C44569&labelColor=1a1a2e&label=TOTAL+STARS"/>
-</p>
-
-<!-- Eyes Animation -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="40"/>
 </p>
 
 <br>
@@ -322,11 +408,9 @@
   </a>
 </p>
 
-<!-- Heart Animation -->
+<!-- Connect Animation - NEW -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="40"/>
-  <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="40"/>
-  <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="40"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="150"/>
 </p>
 
 <br>
@@ -367,9 +451,24 @@
   <img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=500&size=18&duration=4000&pause=1500&color=FF6B9D&center=true&vCenter=true&repeat=true&width=800&height=100&lines=The+future+isn't+something+you+wait+for.+It's+something+you+build.;I+don't+code+to+survive.+I+code+to+evolve.;Every+project+teaches+me+something+new+about+myself.;The+best+time+to+learn+was+yesterday.+Second+best+is+now."/>
 </p>
 
-<div align="center">
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/💭_The_future_isn't_something_you_wait_for._It's_something_you_build.-FF6B9D?style=flat-square&labelColor=1a1a2e"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/💻_I_don't_code_to_survive._I_code_because_it_makes_me_think_differently.-C44569?style=flat-square&labelColor=1a1a2e"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🔥_Most_people_give_up_when_things_get_hard._That's_when_real_learning_begins.-FF6B9D?style=flat-square&labelColor=1a1a2e"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🧠_Intelligence_isn't_fixed._It_grows_when_you_push_it.-C44569?style=flat-square&labelColor=1a1a2e"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🌍_The_world_has_enough_followers._I'd_rather_think_for_myself.-FF6B9D?style=flat-square&labelColor=1a1a2e"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/✨_It's_not_about_being_perfect._It's_about_being_better_than_yesterday.-C44569?style=flat-square&labelColor=1a1a2e"/>
+</p>
 
 <br>
 
@@ -378,9 +477,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=35&duration=3000&pause=1000&color=C44569&center=true&vCenter=true&repeat=true&width=650&height=80&lines=Thanks+for+stopping+by!+✨;Let's+build+something+meaningful!+💻;See+you+in+the+code!+🌙"/>
 </p>
 
-<!-- Wave Animation -->
+<!-- Wave Animation - NEW -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200"/>
 </p>
 
 <!-- Final GIF -->
@@ -399,21 +498,3 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Always_Learning-C44569?style=for-the-badge&labelColor=1a1a2e"/>
 </p>
-
-<!-- Hidden Message -->
-<!--
-Hey there! If you're reading this, you're probably a developer too. 👀
-
-Here's the thing — I genuinely believe that curiosity is the most 
-underrated skill in tech. Everyone talks about languages and frameworks,
-but nobody talks about how important it is to just... wonder.
-
-I stay up late because that's when my brain works best.
-I listen to piano because it helps me focus.
-I question everything because that's how I learn.
-
-If any of this resonates with you, feel free to reach out.
-Let's build something cool together.
-
-— Serena 🌙
--->
