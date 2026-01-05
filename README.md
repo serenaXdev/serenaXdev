@@ -1,43 +1,42 @@
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,50:6366F1,100:8B5CF6&height=200&section=header&text=⟨%20SERENA%20⟩&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=System%20Architect%20|%20Seoul%20🇰🇷%20|%20Beyond%20Limits&descSize=16&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:C44569,100:FF3860&height=200&section=header&text=✨%20SERENA%20✨&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Night%20Coder%20|%20Seoul%20🇰🇷%20|%20Beyond%20Ordinary&descSize=16&descAlignY=55"/>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%E2%9F%A8+INITIALIZING+DEVELOPER+PROFILE...+%E2%9F%A9;%E2%9A%A1+NIGHT+CODER+%7C+PIANO+%26+CODE+%7C+MATRIX+BREAKER;%F0%9F%A7%A0+EXPLORING+THE+LIMITS+OF+HUMAN+INTELLIGENCE;%F0%9F%94%AE+BUILDING+SYSTEMS+THAT+PREDICT+TOMORROW"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&repeat=true&width=700&height=70&lines=🌙+Late+nights+%2B+Calm+Piano+%3D+My+Happy+Place;🧠+Curious+about+the+limits+of+human+mind;💻+I+build+things+that+actually+matter;✨+Not+chasing+trends,+chasing+mastery"/>
 </p>
 
 <!-- Rainbow Line -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<!-- Main Futuristic GIF -->
+<!-- Main GIF -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
 </p>
 
 <br>
 
-<!-- System Status -->
+<!-- About Me -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"/>
-  ⟨ 𝐒𝐘𝐒𝐓𝐄𝐌 𝐒𝐓𝐀𝐓𝐔𝐒: 𝐎𝐍𝐋𝐈𝐍𝐄 ⟩
+  𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"/>
 </h2>
 
-<!-- About Me Card -->
 <p align="center">
-  <img src="https://img.shields.io/badge/⟨_ID_⟩-SERENA-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/⟨_AGE_⟩-24-6366F1?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/⟨_TYPE_⟩-MALE-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/✨_Name-Serena-FF6B9D?style=for-the-badge&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/🎂_Age-24-C44569?style=for-the-badge&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/👨‍💻_Gender-Male-FF6B9D?style=for-the-badge&labelColor=1a1a2e"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⟨_LOCATION_⟩-SEOUL,_KOREA_🇰🇷-6366F1?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/⟨_ROLE_⟩-SYSTEM_ARCHITECT-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/📍_Location-Seoul,_Korea_🇰🇷-C44569?style=for-the-badge&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/💻_Role-Full_Stack_Developer-FF6B9D?style=for-the-badge&labelColor=1a1a2e"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⟨_MODE_⟩-NIGHT_OPERATIONS-6366F1?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/⟨_FOCUS_FUEL_⟩-CALM_PIANO_🎹-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🌙_Mode-Night_Coder-C44569?style=for-the-badge&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/🎹_Vibe-Piano_&_Code-FF6B9D?style=for-the-badge&labelColor=1a1a2e"/>
 </p>
 
 <!-- Animated Divider -->
@@ -50,46 +49,30 @@
 <!-- Rainbow Line -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<!-- Vision & Mindset Section -->
+<!-- My Vision -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="25"/>
-  ⟨ 𝐕𝐈𝐒𝐈𝐎𝐍 𝐏𝐑𝐎𝐓𝐎𝐂𝐎𝐋 ⟩
+  𝐌𝐘 𝐕𝐈𝐒𝐈𝐎𝐍
   <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="25"/>
 </h2>
 
-<!-- Animated Vision Quote -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&duration=4000&pause=1500&color=6366F1&center=true&vCenter=true&repeat=true&width=850&height=60&lines=%E2%9F%A8+I+DON'T+JUST+WRITE+CODE.+I+ARCHITECT+SYSTEMS+THAT+THINK+AHEAD.+%E2%9F%A9;%E2%9F%A8+CODE+IS+MY+WAY+OF+TURNING+ABSTRACT+IDEAS+INTO+CONTROLLED+REALITY.+%E2%9F%A9;%E2%9F%A8+WHILE+OTHERS+CHASE+TRENDS,+I+STUDY+FUNDAMENTALS+AND+BUILD+QUIETLY.+%E2%9F%A9"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=600&size=20&duration=4000&pause=1500&color=FF6B9D&center=true&vCenter=true&repeat=true&width=800&height=60&lines=%22I+don't+write+code+just+to+make+things+work.+I+want+them+to+last.%22;%22Trends+fade.+Fundamentals+stay.+That's+what+I+focus+on.%22;%22I'm+not+here+to+copy-paste+from+Stack+Overflow+forever.%22"/>
 </p>
 
 <br>
 
-<!-- Vision Grid -->
 <div align="center">
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║ ║
-║ ⟨ CORE DIRECTIVE ⟩ ║
-║ ║
-║ → I approach programming like an architect, not a follower ║
-║ → Each project is an experiment to sharpen my thinking ║
-║ → I expand my control over complexity with every line ║
-║ → My systems are built to outlast trends ║
-║ → I don't predict the future — I build it ║
-║ ║
-╠══════════════════════════════════════════════════════════════════════════════════╣
-║ ║
-║ ⟨ PHILOSOPHY PROTOCOL ⟩ ║
-║ ║
-║ → Clean code is a form of self-respect ║
-║ → Architecture comes before aesthetics ║
-║ → Debug with patience, deploy with confidence ║
-║ → Every function has a purpose ║
-║ → Simplicity is the highest form of sophistication ║
-║ ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
+
+> 💭 *"Mujhe wo developer nahi banna jo sirf kaam chala le. Main wo banna chahta hoon jo systems design kare — systems jo mere bina bhi kaam karte rahe."*
+>
+> 🧠 *"I approach every project like a puzzle. Not to solve it fast, but to understand it deeply."*
+>
+> 🌙 *"Most people code during the day. I come alive at night. Silence helps me think clearly."*
+
 </div>
 
-<!-- Brain Animation -->
+<!-- Thinking Animation -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="100"/>
 </p>
@@ -99,47 +82,35 @@
 <!-- Rainbow Line -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<!-- What Defines Me - FUTURISTIC -->
+<!-- Mindset -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="25"/>
-  ⟨ 𝐖𝐇𝐀𝐓 𝐃𝐄𝐅𝐈𝐍𝐄𝐒 𝐌𝐄 ⟩
+  𝐌𝐘 𝐌𝐈𝐍𝐃𝐒𝐄𝐓
   <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="25"/>
 </h2>
 
 <div align="center">
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ ┃
-┃ 🧠 ⟨ INTELLIGENCE MODULE ⟩ ┃
-┃ ━━━━━━━━━━━━━━━━━━━━━━━━━━ ┃
-┃ I want to see how far Human Intelligence can go. ┃
-┃ This isn't curiosity — it's obsession. ┃
-┃ Every line of code is an experiment in cognitive expansion. ┃
-┃ ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃ ┃
-┃ 🌙 ⟨ NIGHT OPERATIONS ⟩ ┃
-┃ ━━━━━━━━━━━━━━━━━━━━━━━ ┃
-┃ When the world sleeps, my mind awakens. ┃
-┃ Late night coding sessions are my meditation. ┃
-┃ Silence + Keyboard = Pure Creation. ┃
-┃ ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃ ┃
-┃ 🎹 ⟨ AUDIO PROTOCOL ⟩ ┃
-┃ ━━━━━━━━━━━━━━━━━━━━━ ┃
-┃ Calm Piano = Maximum Focus. ┃
-┃ Music isn't distraction — it's the gateway to deep work. ┃
-┃ Every keystroke syncs with the melody. ┃
-┃ ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃ ┃
-┃ ⚡ ⟨ MATRIX PROTOCOL ⟩ ┃
-┃ ━━━━━━━━━━━━━━━━━━━━━━ ┃
-┃ I think outside conventional boundaries. ┃
-┃ Rules exist to be understood, then transcended. ┃
-┃ The Matrix has limits. My mind doesn't. ┃
-┃ ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+| | **How I Think** |
+|:---:|:---|
+| 💡 | I don't chase shortcuts. If something takes time to learn, I give it time. |
+| 🎯 | I'd rather understand one thing deeply than know 10 things on surface level. |
+| 🔥 | I don't code to impress anyone. I code because it helps me think better. |
+| 🌊 | When I get stuck, I step back and think — not panic and Google randomly. |
+| ⚡ | I treat my code like it'll be read by a stranger 5 years later. Clean matters. |
+
+</div>
+
+<div align="center">
+
+| | **What I Believe** |
+|:---:|:---|
+| 🧠 | Human intelligence has no ceiling. We just stop climbing too early. |
+| 🌙 | Night time is when distractions die. That's when real work happens. |
+| 🎹 | Calm piano isn't just music for me. It's the switch that turns my focus on. |
+| 💭 | Thinking > Typing. I spend more time planning than actually coding. |
+| 🚀 | The best developers aren't the fastest. They're the ones who think ahead. |
+
 </div>
 
 <!-- Sparkle Animation -->
@@ -152,58 +123,46 @@
 <!-- Rainbow Line -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<!-- What Drives Me - REDESIGNED -->
+<!-- What Defines Me -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="25"/>
-  ⟨ 𝐃𝐑𝐈𝐕𝐄 𝐂𝐎𝐑𝐄 ⟩
+  𝐖𝐇𝐀𝐓 𝐃𝐄𝐅𝐈𝐍𝐄𝐒 𝐌𝐄
   <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="25"/>
 </h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🌙-NIGHT_MODE_ACTIVATED-0D1117?style=for-the-badge&labelColor=6366F1"/>
-</p>
-
 <div align="center">
 
-| ⟨ MODULE ⟩ | ⟨ STATUS ⟩ | ⟨ DESCRIPTION ⟩ |
-|:---:|:---:|:---|
-| `🧠` | **INTELLIGENCE** | *Pushing human cognitive limits* |
-| `🌙` | **NIGHT OPS** | *Peak performance after midnight* |
-| `🎹` | **AUDIO SYNC** | *Calm piano for deep focus* |
-| `⚡` | **MATRIX FREE** | *Thinking beyond boundaries* |
-| `🔮` | **FUTURE VISION** | *Building systems for tomorrow* |
-| `💻` | **CODE CRAFT** | *Every line has purpose* |
 
 </div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/⟨_PRIMARY_FUEL_⟩-CALM_PIANO_+_LATE_NIGHTS-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/⟨_OBSESSION_⟩-HOW_FAR_CAN_HUMAN_INTELLIGENCE_GO?-6366F1?style=for-the-badge&labelColor=0D1117"/>
-</p>
 
 <br>
 
 <!-- Rainbow Line -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<!-- Quotes Section -->
+<!-- My Quotes -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="25"/>
-  ⟨ 𝐓𝐑𝐀𝐍𝐒𝐌𝐈𝐒𝐒𝐈𝐎𝐍 𝐋𝐎𝐆𝐒 ⟩
+  𝐓𝐇𝐈𝐍𝐆𝐒 𝐈 𝐋𝐈𝐕𝐄 𝐁𝐘
   <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="25"/>
 </h2>
 
-<!-- Animated Quotes -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4500&pause=1500&color=8B5CF6&center=true&vCenter=true&repeat=true&width=800&height=80&lines=%22I+don't+just+write+code.+I+architect+systems+that+think+ahead.%22;%22Code+is+my+way+of+turning+abstract+ideas+into+controlled+reality.%22;%22The+Matrix+has+limits.+My+curiosity+doesn't.%22;%22Late+nights,+calm+piano,+and+lines+of+code+%E2%80%94+that's+where+I+exist.%22"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=20&duration=4500&pause=1500&color=C44569&center=true&vCenter=true&repeat=true&width=750&height=80&lines=%22I+don't+write+code+for+today.+I+write+it+for+the+future+me.%22;%22The+best+debugging+tool+is+a+good+night's+sleep.%22;%22If+I+can't+explain+it+simply,+I+don't+understand+it+yet.%22;%22Code+is+like+poetry.+Every+word+should+earn+its+place.%22"/>
 </p>
 
-<!-- Quote Card -->
+<div align="center">
+
+> 🌙 *"Late nights aren't about being workaholic. They're about finding peace in silence."*
+>
+> 💭 *"I'm not trying to be the smartest person. I'm trying to be the most curious one."*
+>
+> ⚡ *"Copy-paste might solve today's problem. Understanding solves tomorrow's."*
+
+</div>
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%20want%20to%20see%20how%20far%20Human%20Intelligence%20can%20go.%20I'm%20obsessed.&author=Serena"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=How%20far%20can%20human%20intelligence%20really%20go?%20I%20want%20to%20find%20out.&author=Serena"/>
 </p>
 
 <br>
@@ -214,7 +173,7 @@
 <!-- Tech Stack -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="25"/>
-  ⟨ 𝐓𝐄𝐂𝐇 𝐀𝐑𝐒𝐄𝐍𝐀𝐋 ⟩
+  𝐓𝐄𝐂𝐇 𝐒𝐓𝐀𝐂𝐊
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="25"/>
 </h2>
 
@@ -230,7 +189,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,figma,docker,firebase&theme=dark"/>
 </p>
 
-<!-- Tech Animation - REPLACED -->
+<!-- Tech Animation -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="450"/>
 </p>
@@ -243,22 +202,22 @@
 <!-- GitHub Stats -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c328-4571-a058-5b5a2597e1b9.png" width="25"/>
-  ⟨ 𝐏𝐄𝐑𝐅𝐎𝐑𝐌𝐀𝐍𝐂𝐄 𝐌𝐄𝐓𝐑𝐈𝐂𝐒 ⟩
+  𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒
   <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c328-4571-a058-5b5a2597e1b9.png" width="25"/>
 </h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=serenaXdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=serenaXdev&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=serenaXdev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=C44569&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=serenaXdev&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=C44569&currStreakLabel=FF6B9D"/>
 </p>
 
 <p align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serenaXdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF"/>
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serenaXdev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF"/>
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=serenaXdev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=6366F1&point=FFFFFF&area=true&area_color=8B5CF6" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=serenaXdev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6B9D&line=C44569&point=FFFFFF&area=true&area_color=FF6B9D" width="98%"/>
 </p>
 
 <!-- Fire Animation -->
@@ -275,7 +234,7 @@
 <!-- Achievements -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="25"/>
-  ⟨ 𝐀𝐂𝐇𝐈𝐄𝐕𝐄𝐌𝐄𝐍𝐓 𝐔𝐍𝐋𝐎𝐂𝐊𝐒 ⟩
+  𝐀𝐂𝐇𝐈𝐄𝐕𝐄𝐌𝐄𝐍𝐓𝐒
   <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="25"/>
 </h2>
 
@@ -283,25 +242,24 @@
   <img src="https://github-profile-trophy.vercel.app/?username=serenaXdev&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=4&row=2"/>
 </p>
 
-<!-- Achievement Badges -->
-<h3 align="center">⟨ 𝐁𝐀𝐃𝐆𝐄 𝐂𝐎𝐋𝐋𝐄𝐂𝐓𝐈𝐎𝐍 ⟩</h3>
+<h3 align="center">🏅 𝐌𝐘 𝐁𝐀𝐃𝐆𝐄𝐒</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏆_OPEN_SOURCE-CONTRIBUTOR-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/⭐_GITHUB-STAR_COLLECTOR-6366F1?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/🔥_STREAK-MAINTAINER-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🏆_Open_Source-Contributor-FF6B9D?style=for-the-badge&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/⭐_GitHub-Star_Collector-C44569?style=for-the-badge&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/🔥_Streak-Maintainer-FF6B9D?style=for-the-badge&labelColor=1a1a2e"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/👨‍💻_CODE-ARCHITECT-6366F1?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/🎨_UI/UX-DESIGNER-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/🚀_RAPID-LEARNER-6366F1?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/👨‍💻_Code-Enthusiast-C44569?style=for-the-badge&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/🎨_UI/UX-Designer-FF6B9D?style=for-the-badge&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/🚀_Quick-Learner-C44569?style=for-the-badge&labelColor=1a1a2e"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📚_SELF_TAUGHT-DEVELOPER-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/🌙_NIGHT-OPERATOR-6366F1?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/🧠_MATRIX-TRANSCENDER-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/📚_Self_Taught-Developer-FF6B9D?style=for-the-badge&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/🌙_Night-Owl-C44569?style=for-the-badge&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/🧠_Deep-Thinker-FF6B9D?style=for-the-badge&labelColor=1a1a2e"/>
 </p>
 
 <!-- Trophy Animation -->
@@ -316,20 +274,20 @@
 <!-- Rainbow Line -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<!-- Profile Metrics -->
+<!-- Profile Stats -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c328-4571-a058-5b5a2597e1b9.png" width="25"/>
-  ⟨ 𝐒𝐘𝐒𝐓𝐄𝐌 𝐌𝐄𝐓𝐑𝐈𝐂𝐒 ⟩
+  𝐏𝐑𝐎𝐅𝐈𝐋𝐄 𝐒𝐓𝐀𝐓𝐒
   <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c328-4571-a058-5b5a2597e1b9.png" width="25"/>
 </h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=serenaXdev&style=for-the-badge&color=8B5CF6&label=PROFILE+SCANS"/>
+  <img src="https://komarev.com/ghpvc/?username=serenaXdev&style=for-the-badge&color=FF6B9D&label=PROFILE+VIEWS"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/serenaXdev?style=for-the-badge&color=8B5CF6&labelColor=0D1117&label=NETWORK+NODES"/>
-  <img src="https://img.shields.io/github/stars/serenaXdev?style=for-the-badge&color=6366F1&labelColor=0D1117&label=STAR+COUNT"/>
+  <img src="https://img.shields.io/github/followers/serenaXdev?style=for-the-badge&color=FF6B9D&labelColor=1a1a2e&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/stars/serenaXdev?style=for-the-badge&color=C44569&labelColor=1a1a2e&label=TOTAL+STARS"/>
 </p>
 
 <!-- Eyes Animation -->
@@ -345,7 +303,7 @@
 <!-- Connect Section -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25"/>
-  ⟨ 𝐍𝐄𝐓𝐖𝐎𝐑𝐊 𝐋𝐈𝐍𝐊𝐒 ⟩
+  𝐂𝐎𝐍𝐍𝐄𝐂𝐓 𝐖𝐈𝐓𝐇 𝐌𝐄
   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25"/>
 </h2>
 
@@ -379,18 +337,18 @@
 <!-- Support Section -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" width="25"/>
-  ⟨ 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐓𝐄𝐑𝐌𝐈𝐍𝐀𝐋 ⟩
+  𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐌𝐘 𝐖𝐎𝐑𝐊
   <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" width="25"/>
 </h2>
 
 <p align="center">
   <a href="https://buymeacoffee.com/serenaxdev">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" width="200"/>
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" width="200"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⟨_FUEL_MY_LATE_NIGHT_SESSIONS_⟩-☕-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Your_support_fuels_my_2AM_coding_sessions!-☕-FF6B9D?style=for-the-badge&labelColor=1a1a2e"/>
 </p>
 
 <br>
@@ -398,42 +356,18 @@
 <!-- Rainbow Line -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<!-- Final Thoughts - EXPANDED -->
+<!-- Final Thoughts -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"/>
-  ⟨ 𝐅𝐈𝐍𝐀𝐋 𝐓𝐑𝐀𝐍𝐒𝐌𝐈𝐒𝐒𝐈𝐎𝐍 ⟩
+  𝐅𝐈𝐍𝐀𝐋 𝐓𝐇𝐎𝐔𝐆𝐇𝐓𝐒
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"/>
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=4000&pause=1500&color=8B5CF6&center=true&vCenter=true&repeat=true&width=800&height=100&lines=%E2%9F%A8+TRANSMISSION+001+%E2%9F%A9+The+future+belongs+to+those+who+build+it.;%E2%9F%A8+TRANSMISSION+002+%E2%9F%A9+Every+problem+is+just+a+system+waiting+to+be+designed.;%E2%9F%A8+TRANSMISSION+003+%E2%9F%A9+Intelligence+has+no+ceiling+%E2%80%94+only+unexplored+floors.;%E2%9F%A8+TRANSMISSION+004+%E2%9F%A9+I+don't+follow+the+path.+I+architect+new+ones."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=500&size=18&duration=4000&pause=1500&color=FF6B9D&center=true&vCenter=true&repeat=true&width=800&height=100&lines=The+future+isn't+something+you+wait+for.+It's+something+you+build.;I+don't+code+to+survive.+I+code+to+evolve.;Every+project+teaches+me+something+new+about+myself.;The+best+time+to+learn+was+yesterday.+Second+best+is+now."/>
 </p>
 
-<!-- Extended Thoughts -->
 <div align="center">
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║ ║
-║ ⟨ FINAL THOUGHTS ⟩ ║
-║ ║
-║ → The future isn't something you wait for. ║
-║ It's something you build, one commit at a time. ║
-║ ║
-║ → I don't code to survive. I code to evolve. ║
-║ Each project pushes my cognitive boundaries further. ║
-║ ║
-║ → While the world sleeps, I'm designing tomorrow. ║
-║ Late nights + calm piano = my creative sanctuary. ║
-║ ║
-║ → Human Intelligence has untapped potential. ║
-║ I'm here to explore those uncharted territories. ║
-║ ║
-║ → Code is not just logic. It's controlled imagination. ║
-║ Every function is a thought crystallized into reality. ║
-║ ║
-║ → The Matrix exists to limit. I exist to transcend. ║
-║ Think different. Build different. Be different. ║
-║ ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
 
 </div>
 
@@ -441,7 +375,7 @@
 
 <!-- Closing Message -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=35&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=650&height=80&lines=Thanks+for+visiting+my+universe!+⚡;Let's+architect+the+future+together!+🔮;Until+next+transmission...+🌙"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=35&duration=3000&pause=1000&color=C44569&center=true&vCenter=true&repeat=true&width=650&height=80&lines=Thanks+for+stopping+by!+✨;Let's+build+something+meaningful!+💻;See+you+in+the+code!+🌙"/>
 </p>
 
 <!-- Wave Animation -->
@@ -455,37 +389,31 @@
 </p>
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,50:6366F1,100:8B5CF6&height=120&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:C44569,100:FF3860&height=120&section=footer&animation=twinkling"/>
 
 <!-- Signature -->
 <p align="center">
-  <img src="https://img.shields.io/badge/⟨_SYSTEM_ARCHITECT_⟩-SERENA-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Made_with-💖_by_Serena-FF6B9D?style=for-the-badge&labelColor=1a1a2e"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⟨_STATUS_⟩-ALWAYS_EVOLVING-6366F1?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Status-Always_Learning-C44569?style=for-the-badge&labelColor=1a1a2e"/>
 </p>
 
 <!-- Hidden Message -->
 <!--
-╔════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                    ║
-║   ⟨ ENCRYPTED TRANSMISSION ⟩                                                       ║
-║                                                                                    ║
-║   "The Matrix has limits. My curiosity doesn't."                                   ║
-║                                                                                    ║
-║   I want to see how far Human Intelligence can go. I'm obsessed.                   ║
-║                                                                                    ║
-║   Late nights, calm piano, and lines of code —                                     ║
-║   that's where I find peace.                                                       ║
-║                                                                                    ║
-║   Every line of code is an experiment.                                             ║
-║   Every project is an evolution.                                                   ║
-║   Every night is an opportunity.                                                   ║
-║                                                                                    ║
-║   I don't predict the future — I build it.                                         ║
-║                                                                                    ║
-║                                    — SERENA ⚡                                      ║
-║                                                                                    ║
-╚════════════════════════════════════════════════════════════════════════════════════╝
+Hey there! If you're reading this, you're probably a developer too. 👀
+
+Here's the thing — I genuinely believe that curiosity is the most 
+underrated skill in tech. Everyone talks about languages and frameworks,
+but nobody talks about how important it is to just... wonder.
+
+I stay up late because that's when my brain works best.
+I listen to piano because it helps me focus.
+I question everything because that's how I learn.
+
+If any of this resonates with you, feel free to reach out.
+Let's build something cool together.
+
+— Serena 🌙
 -->
