@@ -9,9 +9,9 @@
 <!-- Rainbow Line -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<!-- Main GIF -->
+<!-- Main GIF - NEW -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500"/>
 </p>
 
 <br>
@@ -39,9 +39,9 @@
   <img src="https://img.shields.io/badge/🎹_Vibe-Piano_&_Code-FF6B9D?style=for-the-badge&labelColor=1a1a2e"/>
 </p>
 
-<!-- Animated Divider -->
+<!-- Divider GIF - NEW -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 </p>
 
 <br>
@@ -238,9 +238,9 @@
   <img src="https://skillicons.dev/icons?i=vscode,figma,docker,firebase&theme=dark"/>
 </p>
 
-<!-- Tech Animation -->
+<!-- Tech Animation - NEW -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="450"/>
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="450"/>
 </p>
 
 <br>
@@ -293,7 +293,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=serenaXdev&theme=radical&utcOffset=9" width="49%"/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=serenaXdev&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117" width="49%"/>
 </p>
 
 <!-- Live Stats Badges -->
@@ -307,17 +306,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/serenaXdev?style=for-the-badge&logo=github&label=Total%20Stars&color=C44569&labelColor=1a1a2e"/>
-  <img src="https://img.shields.io/github/commit-activity/m/serenaXdev/serenaXdev?style=for-the-badge&logo=github&label=Monthly%20Commits&color=FF6B9D&labelColor=1a1a2e"/>
-</p>
-
-<p align="center">
-  <img src="https://badges.pufler.dev/repos/serenaXdev?style=for-the-badge&color=C44569&labelColor=1a1a2e&label=Total%20Repos"/>
-  <img src="https://badges.pufler.dev/commits/monthly/serenaXdev?style=for-the-badge&color=FF6B9D&labelColor=1a1a2e&label=Monthly%20Commits"/>
-</p>
-
-<!-- Contribution Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/serenaXdev/serenaXdev/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 <br>
 
@@ -357,7 +345,7 @@
 
 <!-- Achievement Animation - NEW -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2f5c9a4.gif" width="350"/>
 </p>
 
 <br>
@@ -410,7 +398,7 @@
 
 <!-- Connect Animation - NEW -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="150"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="300"/>
 </p>
 
 <br>
@@ -482,9 +470,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200"/>
 </p>
 
-<!-- Final GIF -->
+<!-- Final GIF - NEW -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="450"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4f4bd6f664c7.gif" width="450"/>
 </p>
 
 <!-- Footer -->
